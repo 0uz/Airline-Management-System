@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DenemeGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DenemeGUI_jar</output-path>
+    <root id="archive" name="DenemeGUI.jar">
+      <element id="module-output" name="Project" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/microba.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Database/sqlite-jdbc-3.27.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
